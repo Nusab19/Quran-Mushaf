@@ -1,4 +1,4 @@
-# Quran-Mushaf
+# Quran Mushaf
 
 ## Note: Still under active development
 
@@ -27,3 +27,4 @@ python main.py
 
 
 And you'll have a `dist` folder created.
+
